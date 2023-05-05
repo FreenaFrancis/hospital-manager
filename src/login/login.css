@@ -1,0 +1,48 @@
+.log{
+
+  margin-block: 100px;
+    width: 90rem;
+    height: 50rem;
+    
+}
+.hi{
+    
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  background: rgba(255, 255, 255, 0.705);
+  border-radius: 10px;   
+    padding: 80px;
+    /* margin-top: -641px;
+    
+   margin-left: 550px;
+   background-color: aliceblue;
+   box-shadow: 2px 3px 3px 2px;
+   position: absolute;
+   width: 388px;
+   height: 291px;
+   padding: 70px; */
+}
+h2{
+  text-align: center;
+  padding: 10px 10px 20px 10px;
+  padding-left: 57px;
+  border-bottom: 1px solid rgba(192, 192, 192, 0.539);
+}
+
+.img{
+  width:90rem;
+  height:50rem;
+}
+.but{
+  border-radius: 10px;
+  background-color: rgba(0, 0, 255, 0.58);
+  margin-left: 50px;
+ margin-top: 20px;
+
+}
+.txt_field{
+  width:100px;
+}

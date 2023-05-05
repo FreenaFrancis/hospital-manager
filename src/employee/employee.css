@@ -1,0 +1,22 @@
+.image{
+    width:100%;
+    height:1360px;
+}
+.em{
+    
+    margin-top: -548px;
+    margin-left: 620px;
+    position: absolute;
+    
+    background-color: rgba(240, 248, 255, 0.701);
+    box-shadow: 2px 3px 3px 2px;
+    width: 396px;
+    padding-left: 67px;
+    height: 458px;
+}
+.but{
+    margin-left: 78px;
+    margin-top: 6px;
+    border-radius: 12px;
+
+}
